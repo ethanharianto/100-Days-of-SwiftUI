@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79444B5D2BC9CA6200B2915B /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79444B5C2BC9CA6200B2915B /* AddView.swift */; };
 		79DC5D932B70163C0029A495 /* ExpensesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79DC5D922B70163C0029A495 /* ExpensesApp.swift */; };
 		79DC5D952B70163C0029A495 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79DC5D942B70163C0029A495 /* ContentView.swift */; };
 		79DC5D972B70163D0029A495 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 79DC5D962B70163D0029A495 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79444B5C2BC9CA6200B2915B /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
 		79DC5D8F2B70163C0029A495 /* Expenses.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Expenses.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79DC5D922B70163C0029A495 /* ExpensesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpensesApp.swift; sourceTree = "<group>"; };
 		79DC5D942B70163C0029A495 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				79DC5D922B70163C0029A495 /* ExpensesApp.swift */,
 				79DC5D942B70163C0029A495 /* ContentView.swift */,
+				79444B5C2BC9CA6200B2915B /* AddView.swift */,
 				79DC5D962B70163D0029A495 /* Assets.xcassets */,
 				79DC5D982B70163D0029A495 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				79DC5D952B70163C0029A495 /* ContentView.swift in Sources */,
 				79DC5D932B70163C0029A495 /* ExpensesApp.swift in Sources */,
+				79444B5D2BC9CA6200B2915B /* AddView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
